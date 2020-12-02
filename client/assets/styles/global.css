@@ -1,0 +1,8 @@
+body{
+  background-image: url('../images/beijing.jpg');
+  position: fixed;
+  background-size: cover;
+  font: 14px 'microsoft yahei';
+  color: '#4d4d4d';
+  font-weight: 300;
+}

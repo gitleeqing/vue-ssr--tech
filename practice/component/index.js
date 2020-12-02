@@ -1,0 +1,8 @@
+// import './define'
+// import './extend'
+// import './v-model1'
+// import './v-model2'
+// import './features1'
+// import './features2'
+// import './features3'
+import './render'
